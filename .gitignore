@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,macos,windows,python,django
 
 **/migrations
-**/app/**/logs/**
+**/app/logs/django-out.log.*
 .git/
 .svn/
 
